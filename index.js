@@ -50,6 +50,6 @@ function lead() {
         leadTeam.innerText = "It is a Draw"
     }
     else {
-        leadTeam.innerText = "Guest Team is leading"
+        leadTeam.innerText = "Away Team is leading"
     }
 }
